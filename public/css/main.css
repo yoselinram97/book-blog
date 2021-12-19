@@ -1,0 +1,73 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.navbar {
+  background-color: #eaeff2;
+  border: 1px solid #eaeff2;
+  color: #64495c;
+}
+
+dropdown-menu {
+  color: #64495c;
+}
+
+h1 {
+  font-family: Candara;
+  text-align: center;
+  font-size: 22px;
+}
+
+p {
+  font-family: Candara;
+  font-size: 16px;
+  text-align: center;
+}
+
+body {
+  background-color: #eaeff2;
+  color: #4f1b1d;
+}
+
+.photos {
+  display: block;
+  margin: 0 auto;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+
+.dropdown {
+  color: #161616
+}
+
+.messages {
+  display: flex;
+  flex-wrap: wrap
+  justify-content: center;
+}
+.message-container {
+  display: flex;
+  background-color: #161616;
+  color: #fff;
+  width: 20%;
+  margin: 2.5%;
+}
+
+.form-group.button-group {
+  margin: 0 auto 0 50px;
+}
+
+.comments {
+  margin-top: 5px;
+  width: 100%;
+}
+.comment {
+  border: 1px solid black;
+  width: 100%;
+  background-color: #ddd5cc;
+  padding: 2.5%;
+  font-size: 12px;
+}
